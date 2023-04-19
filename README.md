@@ -1,3 +1,5 @@
+# Online Shoppers Intentions Dataset
+
 predict customers' browsing behaviors and different groups of customers using online-shoppers-intention dataset in both classification and clustering approach. 
 
 **`CLASSIFICATION APPROACH`**
